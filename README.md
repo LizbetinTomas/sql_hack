@@ -1,4 +1,4 @@
-# SQL Injection – Write-up
+# SQL Injection
 
 ## Průzkum
 
